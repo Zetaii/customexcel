@@ -1,0 +1,56 @@
+/* static/pagination.css */
+
+/* Style pagination container */
+.dataTables_paginate {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Align items vertically */
+  margin-top: 20px;
+}
+
+/* Style for the individual pagination buttons */
+.dataTables_paginate .paginate_button {
+  margin: 0 5px;
+  padding: 8px 12px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  background-color: #f9f9f9;
+  color: #333;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Style for "Previous" and "Next" buttons */
+.dataTables_paginate .paginate_button.previous,
+.dataTables_paginate .paginate_button.next {
+  font-weight: bold; /* Optional: make text bold */
+}
+
+/* Hover effect for buttons */
+.dataTables_paginate .paginate_button:hover {
+  background-color: #007bff; /* Change this color as needed */
+  color: white;
+  border-color: #007bff;
+}
+
+/* Style for the current page button */
+.dataTables_paginate .paginate_button.current {
+  background-color: #007bff;
+  color: white;
+  border-color: #007bff;
+}
+
+/* Disabled state for pagination buttons */
+.dataTables_paginate .paginate_button.disabled {
+  cursor: not-allowed;
+  background-color: #e9ecef;
+  border-color: #dee2e6;
+  color: #6c757d;
+}
+.dataTables_filter input {
+  border: 2px solid black; /* Black border with 2px width */
+  padding: 1px;
+  border-radius: 4px; /* Optional: rounded corners */
+  font-size: 16px; /* Optional: adjust font size */
+  margin: 12px;
+}
