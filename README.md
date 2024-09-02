@@ -32,15 +32,25 @@ To get started with the Custom Excel Integration app, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/custom-excel-integration.git
+   git clone https://github.com/Zetaii/custom-excel-integration.git
    cd custom-excel-integration
+   
 
-   2. **Set Up the Backend:**
+1. **Set Up the Backend:**
+
+   ```bash
    cd backend
    pip install -r requirements.txt
 
-   3. **Run the Backend Server**
+1. **Run the Backend Server:**
+
+   ```bash
    python app.py
+
+1. **Set Up the Frontend:**
+
+   ```bash
+   cd ../frontend
 
    
 Usage
