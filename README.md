@@ -54,22 +54,22 @@ To get started with the Custom Excel Integration app, follow these steps:
 
    
 ## Usage
-- **Upload a File: Click on the upload button to select and Upload Excel file.
-- **Perform Data Transformations: Use the provided tools to transform the data as needed.
--- ** **Export Data: Click on download Processed Data to download.
-- **Contributing
-- **Contributions to the project are welcome! Please follow these steps to contribute:
+- Upload a File: Click on the upload button to select and Upload Excel file.
+- Perform Data Transformations: Use the provided tools to transform the data as needed.
+--Export Data: Click on download Processed Data to download.
+- Contributing
+- Contributions to the project are welcome! Please follow these steps to contribute:
 
 ## Fork the repository.
-- **Create a new branch (git checkout -b feature-branch).
-- **Make your changes.
-- **Commit your changes (git commit -am 'Add new feature').
-- **Push to the branch (git push origin feature-branch).
-- **Create a new Pull Request.
+- Create a new branch (git checkout -b feature-branch).
+- Make your changes.
+- Commit your changes (git commit -am 'Add new feature').
+- Push to the branch (git push origin feature-branch).
+- Create a new Pull Request.
 
 
 ## Contact
 For any questions or feedback, please reach out to:
 
-- **Email: nguyens556@gmail.com
-- **GitHub: https://github.com/Zetaii
+- Email: nguyens556@gmail.com
+- GitHub: https://github.com/Zetaii
