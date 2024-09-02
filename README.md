@@ -34,10 +34,19 @@ To get started with the Custom Excel Integration app, follow these steps:
    ```bash
    git clone https://github.com/yourusername/custom-excel-integration.git
    cd custom-excel-integration
+
+   2. **Set Up the Backend:**
+   cd backend
+   pip install -r requirements.txt
+
+   3. **Run the Backend Server**
+   python app.py
+
+   
 Usage
-Upload a File: Click on the upload button to select and upload an Excel file.
+Upload a File: Click on the upload button to select and Upload Excel file.
 Perform Data Transformations: Use the provided tools to transform the data as needed.
-Export Data: Choose the export format and download the processed data.
+Export Data: Click on download Processed Data to download.
 Contributing
 Contributions to the project are welcome! Please follow these steps to contribute:
 
@@ -47,11 +56,10 @@ Make your changes.
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Create a new Pull Request.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 Contact
 For any questions or feedback, please reach out to:
 
-Email: your-email@example.com
-GitHub: yourusername
+Email: nguyens556@gmail.com
+GitHub: https://github.com/Zetaii
