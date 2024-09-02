@@ -36,40 +36,40 @@ To get started with the Custom Excel Integration app, follow these steps:
    cd custom-excel-integration
    
 
-1. **Set Up the Backend:**
+2. **Set Up the Backend:**
 
    ```bash
    cd backend
    pip install -r requirements.txt
 
-1. **Run the Backend Server:**
+3. **Run the Backend Server:**
 
    ```bash
    python app.py
 
-1. **Set Up the Frontend:**
+4. **Set Up the Frontend:**
 
    ```bash
    cd ../frontend
 
    
-Usage
-Upload a File: Click on the upload button to select and Upload Excel file.
-Perform Data Transformations: Use the provided tools to transform the data as needed.
-Export Data: Click on download Processed Data to download.
-Contributing
-Contributions to the project are welcome! Please follow these steps to contribute:
+## Usage
+- **Upload a File: Click on the upload button to select and Upload Excel file.
+- **Perform Data Transformations: Use the provided tools to transform the data as needed.
+-- ** **Export Data: Click on download Processed Data to download.
+- **Contributing
+- **Contributions to the project are welcome! Please follow these steps to contribute:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Create a new Pull Request.
+## Fork the repository.
+- **Create a new branch (git checkout -b feature-branch).
+- **Make your changes.
+- **Commit your changes (git commit -am 'Add new feature').
+- **Push to the branch (git push origin feature-branch).
+- **Create a new Pull Request.
 
 
-Contact
+## Contact
 For any questions or feedback, please reach out to:
 
-Email: nguyens556@gmail.com
-GitHub: https://github.com/Zetaii
+- **Email: nguyens556@gmail.com
+- **GitHub: https://github.com/Zetaii
